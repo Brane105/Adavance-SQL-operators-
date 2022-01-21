@@ -1,5 +1,8 @@
 # Adavance-SQL-operators-
 Download the zip folder containing all the Advance sql operators with explaination and output 
+
+
+
 TIME - contains only time (HOUR  , MIN , SEC )
 DATE - contains only date 
 TIMESTAMP - Contains date and time 
